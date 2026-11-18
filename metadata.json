@@ -1,0 +1,6 @@
+{
+  "name": "Saldo Claro",
+  "description": "Controle financeiro mensal para registrar ganhos, lançar gastos e acompanhar quanto sobrou no final do mês.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
